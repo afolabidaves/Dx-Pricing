@@ -11,14 +11,23 @@ button{
     border:  none;
 }
 
+.price-cont{
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 25px;
+    display: flex;
+    justify-content: space-between;
+}
 .text-cont{
     text-align: center;
     padding: 50px;
 }
 
 .simple{
-    font-size: 40px;
-    font-weight: lighter;
+    font-size: 35px;
     padding: 20px 0;
 }
 
@@ -45,37 +54,47 @@ button{
 
 .haze{
     display: flex;
+    padding-left: 10px;
 }
 
 .hash{
-    border: 3px solid black;
+    margin-top: 30px;
 }
 
 .zero{
-    border: 3px solid brown;
+    font-size: 55px;
 }
 
-.price-cont{
-    border: 2px solid black;
-    border-radius: 15px;
-    display: flex;
-    width: 95%;
-    margin: 0 auto;
-}
 
 .cont1{
-    border: 3px solid saddlebrown;
+    border-right: 2px solid black;
     padding: 29px;
+    justify-content: space-between;
 }
 
+.lorem{
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
 .cont1 h4{
     padding: 20px 0;
+    padding-left: 10px;
 }
 
 .per{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    padding-left: 10px;
 }
 
 .font{
-    margin-top: 30px;
+    /* margin-top: 50px; */
+}
+
+.holder{
+    margin: 20px 0 10px 0;
+    padding-right: 10px;
+}
+
+.four{
+    border-right: none;
 }

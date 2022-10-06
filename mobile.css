@@ -1,0 +1,21 @@
+@media screen and (max-width:1100px) {
+    .text-cont{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .simple{
+        font-size: 30px;
+    }
+
+    .price-cont{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .cont1{
+        border-right: none;
+    }
+}
