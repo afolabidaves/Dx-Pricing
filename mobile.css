@@ -24,13 +24,19 @@
         margin: 0 auto;
     }
 
+    .doub-part{
+        padding: 5px 7px;
+    }
+
     .sub{
         font-weight: bolder;
-        font-size: small;
+        font-size: 17px;
+        padding: 10px;
     }
 
     .paid{
         font-weight: bolder;
-        font-size: small;
+        font-size: 17px;
+        padding: 10px;
     }
 }

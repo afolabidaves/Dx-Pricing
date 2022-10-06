@@ -41,7 +41,7 @@ main{
     background: rgba(128, 128, 128, 0.3);
     width: fit-content;
     margin: 0 auto;
-    padding: 5px 2px;
+    padding: 5px 3px;
     border-radius: 10PX;
 }
 
