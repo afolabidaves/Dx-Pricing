@@ -23,4 +23,18 @@
         border-right: none;
         margin: 0 auto;
     }
+    .double-part{
+
+    }
+
+    .sub{
+        font-weight: bolder;
+        font-size: medium;
+        text-align: center;
+    }
+
+    .paid{
+        font-weight: bolder;
+        font-size: medium;
+    }
 }
