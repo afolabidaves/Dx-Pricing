@@ -26,11 +26,11 @@
 
     .sub{
         font-weight: bolder;
-        font-size: medium;
+        font-size: small;
     }
 
     .paid{
         font-weight: bolder;
-        font-size: medium;
+        font-size: small;
     }
 }
