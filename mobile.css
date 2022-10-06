@@ -1,14 +1,11 @@
 @media screen and (max-width:1100px) {
 
-    .main{
-        height: 900px;
-        display: flex;
-        justify-content: center;
+    main{
+        height: 2785px;
     }
     .text-cont{
         display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
+        flex-direction: column;
     }
 
     .simple{
@@ -25,10 +22,6 @@
     .cont1{
         border-right: none;
         margin: 0 auto;
-    }
-
-    .doub-part{
-        /* padding: 5px 7px; */
     }
 
     .sub{
