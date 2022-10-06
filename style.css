@@ -5,10 +5,14 @@
 }
 
 button{
-    padding: 10PX 15px;
+    padding: 10PX 30px;
     color: white;
     background: rgba(0, 0, 0, 0.8);
     border:  none;
+}
+
+main{
+    height: 900px;
 }
 
 .price-cont{
@@ -76,7 +80,7 @@ button{
     margin-bottom: 20px;
     padding-left: 10px;
 }
-.cont1 h4{
+.gate{
     padding: 20px 0;
     padding-left: 10px;
 }
@@ -86,15 +90,16 @@ button{
     padding-left: 10px;
 }
 
-.font{
-    /* margin-top: 50px; */
-}
 
 .holder{
-    margin: 20px 0 10px 0;
-    padding-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .four{
     border-right: none;
+}
+
+.push{
+    margin-top: 55px;
 }
