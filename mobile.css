@@ -35,6 +35,7 @@
 
     .paid{
         font-weight: bolder;
-        font-size: medium;
+        font-size: small;
+        display: flex;
     }
 }
