@@ -17,13 +17,13 @@ main{
 
 .price-cont{
     border: 2px solid black;
-    border-radius: 15px;
+    border-radius: 20px;
     display: flex;
     width: 90%;
     margin: 0 auto;
-    padding: 10px 25px;
+    padding: 20px 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .text-cont{
     text-align: center;
@@ -38,7 +38,6 @@ main{
 .doub-part{
     display: flex;
     justify-content: center;
-    /* border: 3px solid brown; */
     background: rgba(128, 128, 128, 0.3);
     width: fit-content;
     margin: 0 auto;
@@ -58,7 +57,7 @@ main{
 
 .haze{
     display: flex;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 
 .hash{
@@ -72,8 +71,11 @@ main{
 
 .cont1{
     border-right: 2px solid black;
-    padding: 29px;
-    justify-content: space-between;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 .lorem{
@@ -98,6 +100,7 @@ main{
 
 .four{
     border-right: none;
+    padding-right: 10px;
 }
 
 .push{
