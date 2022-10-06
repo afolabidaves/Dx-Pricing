@@ -9,18 +9,11 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        margin: 0 auto;
-        border: 3px solid brown;
-        width: 90%;
     }
 
     .simple{
         font-size: 30px;
         margin: 0 auto;
-    }
-
-    h2{
-       flex-wrap: wrap;
     }
 
     .price-cont{
@@ -40,11 +33,11 @@
 
     .sub{
         font-weight: bolder;
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .paid{
         font-weight: bolder;
-        font-size: 15px;
+        font-size: 13px;
     }
 }
