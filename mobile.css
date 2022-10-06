@@ -2,15 +2,25 @@
 
     .main{
         height: 900px;
+        display: flex;
+        justify-content: center;
     }
     .text-cont{
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        margin: 0 auto;
+        border: 3px solid brown;
+        width: 90%;
     }
 
     .simple{
         font-size: 30px;
+        margin: 0 auto;
+    }
+
+    h2{
+       flex-wrap: wrap;
     }
 
     .price-cont{
@@ -25,18 +35,16 @@
     }
 
     .doub-part{
-        padding: 5px 7px;
+        /* padding: 5px 7px; */
     }
 
     .sub{
         font-weight: bolder;
-        font-size: 17px;
-        padding: 10px;
+        font-size: 15px;
     }
 
     .paid{
         font-weight: bolder;
-        font-size: 17px;
-        padding: 10px;
+        font-size: 15px;
     }
 }
