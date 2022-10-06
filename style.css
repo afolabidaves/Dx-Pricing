@@ -17,7 +17,7 @@ main{
 
 .price-cont{
     border: 2px solid black;
-    border-radius: 20px;
+    border-radius: 30px;
     display: flex;
     width: 90%;
     margin: 0 auto;
@@ -113,4 +113,15 @@ main{
 
 .push{
     margin-top: 55px;
+}
+
+.font p{
+    margin: 6px 0;
+}
+
+.font i{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 5px;
 }
