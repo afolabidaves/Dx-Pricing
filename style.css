@@ -97,9 +97,13 @@ main{
 .per{
     margin-left: 10px;
 }
+.por{
+    margin-bottom: 57px;
+}
 .holder{
     margin-top: 30px;
     margin-bottom: 10px;
+    font-weight: bolder;
 }
 
 .four{
