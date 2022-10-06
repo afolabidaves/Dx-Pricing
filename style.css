@@ -45,13 +45,14 @@ main{
     border-radius: 10PX;
 }
 
-.doub-part p{
+.paid{
     padding: 7px 15px;
 }
 
 .sub{
     background: white;
     border-radius: 10px;
+    padding: 7px 15px;
     margin: 0 4px;
 }
 
@@ -62,6 +63,7 @@ main{
 
 .hash{
     margin-top: 30px;
+    font-weight: bolder;
 }
 
 .zero{
@@ -87,12 +89,14 @@ main{
     padding-left: 10px;
 }
 
-.per{
+.bill{
     margin-bottom: 40px;
-    padding-left: 10px;
+    margin-left: 10px;
 }
 
-
+.per{
+    margin-left: 10px;
+}
 .holder{
     margin-top: 30px;
     margin-bottom: 10px;
